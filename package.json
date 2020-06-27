@@ -1,5 +1,5 @@
 {
-  "name": "react-native-localize",
+  "name": "react-native-localize-tvos10",
   "version": "1.4.0",
   "license": "MIT",
   "description": "A toolbox for your React Native app localization.",
